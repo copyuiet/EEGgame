@@ -1,1 +1,1 @@
-# EEGgame
+EEGgame
